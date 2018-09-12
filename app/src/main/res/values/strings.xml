@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roll</string>
+    <string name="hit_role" id="1">Critical Hit!</string>
+    <string name="miss_role" id="2">Critical Miss!</string>
+</resources>
